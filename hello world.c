@@ -3,8 +3,9 @@
 #include <stdio.h>
 
 // начало функции main
- int main(void)
- {
-   printf ("Hello, world - Здравствуй, Мир!\n");
-   return 0;
- }// окончание функции main
+int main(void)
+{
+    printf("Hello, world - Здравствуй, Мир!\n");
+    return 0;
+
+} // окончание функции main
